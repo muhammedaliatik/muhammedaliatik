@@ -8,9 +8,9 @@
 ---
 
 ### 💡 About Me
-- 🎓 I'm studying **Computer Engineering** at [Your University Name].
-- 🌱 Currently learning **React** and **Machine Learning**.
-- 💬 Ask me about **Python, Frontend Development**, or **AI projects**.
+- 🎓 I'm studying Computer Engineering at Gazi University.
+- 🌱 Currently learning TensorFlow.
+- 💬 Ask me about Python, Frontend Development, or AI projects.
 - ⚡ Fun fact: I love exploring new technologies and solving real-world problems.
 
 ---
@@ -64,9 +64,9 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔹 [AI Bike Price Predictor](#)
-- 🔹 [Personal Portfolio Website](#)
-- 🔹 [Android Weather App](#)
+- 🔹 [Prediction of Customer Purchase Behavior in E-Commerce](#)
+- 🔹 [TO-DO LIST Application](#)
+- 🔹 [Currency Converter](#)
 
 ---
 
