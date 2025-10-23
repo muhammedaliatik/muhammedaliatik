@@ -104,6 +104,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedaliatik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammedaliatik&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=muhammedaliatik&theme=tokyonight" alt="GitHub Streak" />
