@@ -9,7 +9,6 @@
 
 ### 💡 About Me
 - 🎓 I'm studying Computer Engineering at Gazi University.
-- 🌱 Currently learning TensorFlow.
 - 💬 Ask me about Python, Frontend Development, or AI projects.
 - ⚡ Fun fact: I love exploring new technologies and solving real-world problems.
 
