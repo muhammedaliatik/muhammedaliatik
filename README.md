@@ -74,21 +74,16 @@
 
 ---
 
-### 📊 GitHub İstatistikleri / Stats
+### 📊 GitHub İstatistikleri & Aktivite / Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedaliatik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammed Ali Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedaliatik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160" />
-</div>
 
-<br/>
+  <!-- Canlı Streak & Katkı Kartı (TokyoNight) -->
+  <img src="https://streak-stats.demolab.com?user=muhammedaliatik&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="85%" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedaliatik&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
+  <br/><br/>
 
----
+  <!-- Canlı Aktivite Grafiği (TokyoNight) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedaliatik&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
-<div align="center">
-  <sub>⭐ <i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 </div>
